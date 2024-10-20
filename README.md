@@ -1,2 +1,2 @@
 # StopWatch-App
-A mini project in Android Studio Project
+A mini project in Android Studio
